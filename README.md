@@ -1,4 +1,18 @@
-### Hi there 👋
+## Pedro Malafaia
+
+### About me 
+- 20 yo from portugal
+- Studying Computer Science at Instituto Superior de Engenharia de Lisboa in Lisbon, Portugal. [@ISEL](https://www.isel.pt/en/)
+- Currently learning: Kotlin but planning on learning other languages soon
+
+<hr>
+
+### Find me at 
+- Twitter [@damnmalafaia](https://twitter.com/damnmalafaia)
+- Instagram [@pedromalaf](https://www.instagram.com/pedromalaf/)
+- Email pdmmalafaia@gmail.com
+
+
 
 <!--
 **pedroMalaf/pedroMalaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
