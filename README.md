@@ -3,7 +3,8 @@
 ### About me 
 - 20 yo from portugal
 - Studying Computer Science at Instituto Superior de Engenharia de Lisboa in Lisbon, Portugal. [@ISEL](https://www.isel.pt/en/)
-- Currently learning: Kotlin but planning on learning other languages soon
+- Currently learning: Kotlin 
+- Planning on learning other languages soon 
 
 <hr>
 
