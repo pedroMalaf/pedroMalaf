@@ -13,7 +13,10 @@
 - Instagram [@pedromalaf](https://www.instagram.com/pedromalaf/)
 - Email pdmmalafaia@gmail.com
 
-
+<div>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrocmoita&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocmoita&layout=compact&langs_count=16&theme=radical" />
+</div>
 
 <!--
 **pedroMalaf/pedroMalaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
