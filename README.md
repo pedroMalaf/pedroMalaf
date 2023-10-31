@@ -8,7 +8,6 @@
 <hr>
 
 ### Find me at 
-- Twitter [@damnmalafaia](https://twitter.com/damnmalafaia)
 - Instagram [@pedromalaf](https://www.instagram.com/pedromalaf/)
 - Email pdmmalafaia@gmail.com
 
