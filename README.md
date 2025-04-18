@@ -2,13 +2,11 @@
 
 ### About me 
 - 23 yo from portugal
-- Studying Computer Science at Instituto Superior de Engenharia de Lisboa in Lisbon, Portugal. [@ISEL](https://www.isel.pt/en/)
-- Currently learning: Kotlin 
+- Studying Computer Science at Instituto Superior de Engenharia de Lisboa in Lisbon, Portugal. [@ISEL](https://www.isel.pt/en/) 
 
 <hr>
 
 ### Find me at 
-- Instagram [@pedromalaf](https://www.instagram.com/pedromalaf/)
 - Email pdmmalafaia@gmail.com
 
 <div>
