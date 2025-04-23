@@ -7,7 +7,8 @@
 <hr>
 
 ### Find me at 
-- Email pdmmalafaia@gmail.com
+- Email pedrodmalaf@gmail.com
+- linkedin https://www.linkedin.com/in/pedromalafaia01/
 
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMalaf&layout=compact&langs_count=16&theme=radical" />
